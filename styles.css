@@ -5,8 +5,8 @@ body {
 
 .banner {
   position: relative;
-  width: 100%; /* Full width */
-  height: 100px; /* Adjust height */
+  width: 100%;
+  height: 100px; 
   overflow: hidden;
 }
 
@@ -15,8 +15,8 @@ body {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  height: 100%; /* Ensures it fits the banner height */
-  object-fit: cover; /* Keeps aspect ratio intact */
+  height: 100%;
+  object-fit: cover;
   z-index: 0;
 }
 
